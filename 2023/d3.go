@@ -6,7 +6,7 @@ import (
 	"unicode"
 )
 
-func main() {
+func d3() {
 	runes := []rune(inputD3)
 	symbolPresent := false
 	foundNumber := false //tracks whether we are currently processing a number
